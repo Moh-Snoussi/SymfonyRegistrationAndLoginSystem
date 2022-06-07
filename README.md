@@ -36,6 +36,3 @@ Symfony 6 Login and Registration System with email verification and reset passwo
 `php bin/console doctrine:schema:create`
 
 `symfony serve`
-
-# composer project:
-composer create-project vendor/name path --repository-url=https://github.com/Moh-Snoussi/Symfony6LoginSystem
