@@ -1,4 +1,4 @@
-# SymfonyRegistrationAndLoginSystem
+# Symfony 6 Registration and Login System
 
 Symfony 6 Login and Registration System with email verification and reset password abilities.
 
