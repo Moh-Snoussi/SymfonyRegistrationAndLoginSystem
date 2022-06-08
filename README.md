@@ -2,6 +2,8 @@
 
 Symfony 6 Login and Registration System with email verification and reset password abilities.
 
+made in the following video https://www.youtube.com/watch?v=bvhHsutKZek&t=446s
+
 ## Requirements
 - php 8
 - composer
